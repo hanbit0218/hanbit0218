@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Song</h1>
-<h3 align="center">A passionate frontend developer from San Jose, California.</h3>
+<h3 align="center">A passionate fullstack developer from San Jose, California.</h3>
 
 - 🔭 I’m currently working on Calendar Evolution **Calendar Evolution**
 
