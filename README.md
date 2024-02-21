@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Song</h1>
 <h3 align="center">A passionate fullstack developer from San Jose, California.</h3>
 
-- 🔭 I’m currently working on Calendar Evolution **Calendar Evolution**
+- 🔭 I’m currently working on **Calendar Evolution**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
